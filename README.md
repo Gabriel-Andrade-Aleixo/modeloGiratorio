@@ -7,4 +7,4 @@ https://codepen.io/GABRIEL-ALEIXO/pen/KKLpeMY
 <hr>
 <p>Gif da animação:</p>
 <br>
-<img src="./videolegal.gif" alt="videolegal">
+<video src="./videolegal.mp4"></video>
